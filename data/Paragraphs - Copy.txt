@@ -1,0 +1,3 @@
+~WorkID~,~ParagraphID~,~ParagraphNum~,~CharID~,~PlainText~,~PhoneticText~,~StemText~,~ParagraphType~,~Section~,~Chapter~,~CharCount~,~WordCount~
+~12night~,630863,3,~xxx~,~[Enter DUKE ORSINO, CURIO, and other Lords; Musicians attending]
+~,~ENTR TK ORSN KR ANT O0R LRTS MSXNS ATNTNK ~,~enter duke orsino curio and other lord musician attend ~,~b~,1,1,65,9
